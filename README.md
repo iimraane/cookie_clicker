@@ -233,7 +233,6 @@ Vous pouvez personnaliser et étendre Cookie Simulator en modifiant :
 Cookie Simulator est un projet ambitieux et évolutif qui combine une économie exponentielle, un système de progression séquentielle et une interface graphique interactive. Que vous soyez joueur à la recherche d'un défi addictif ou développeur curieux d'explorer les mécaniques des clicker games, ce projet offre une base riche et personnalisable.
 
 *Amusez-vous bien à accumuler des cookies interstellaires, et n'hésitez pas à partager vos retours et contributions !*
-```
 
 # License
 
