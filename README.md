@@ -1,6 +1,4 @@
-Voici un fichier complet `README.md` qui intègre l'ensemble du tutoriel, de la logique de jeu et des instructions d'installation et d'utilisation :
 
-```markdown
 # Cookie Simulator
 
 Cookie Simulator est un jeu de type *clicker* dans lequel vous accumulez des cookies en effectuant des clics manuels et en investissant dans des bâtiments qui produisent des cookies automatiquement. Le jeu repose sur une **économie exponentielle** : les coûts et la production augmentent de manière exponentielle, ce qui permet d'atteindre des niveaux astronomiques (pensez quadrillions de cookies et plus).
